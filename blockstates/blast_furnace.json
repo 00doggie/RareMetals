@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "burning=false, facing=north": {"model": "rm:blast_furnace"},
+    "burning=false, facing=south": {"model": "rm:blast_furnace", "y": 90},
+    "burning=false, facing=west": {"model": "rm:blast_furnace", "y": 180},
+    "burning=false, facing=east": {"model": "rm:blast_furnace", "y": 270}
+   }
+  }
